@@ -44,5 +44,4 @@ def lista_de_tarefas():
         else:
             print("Opção inválida. Por favor, escolha uma opção válida.")
 
-# Iniciar o aplicativo de lista de tarefas
 lista_de_tarefas()
